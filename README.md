@@ -10,5 +10,6 @@
 - **`Linguagens:` [JavaScript](https://www.javascript.com/) | [Python](https://www.python.org/)**
 - **`Ferramentas:` [Visual Studio Code ](https://visualstudio.microsoft.com/pt-br/) | [Node.js](https://nodejs.org/)**
 
+### Status 📃
 ![Github Status](https://github-readme-stats.vercel.app/api/?username=ExpressDeveloper&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
