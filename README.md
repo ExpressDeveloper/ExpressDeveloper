@@ -1,7 +1,11 @@
-### 👋 | console.log("Sou o Expresso!")
+### 👋 | console.log("Sou o Expresso")
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ExpressDeveloper) [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=white)](hhttps://discord.gg/Expresso#9170)
 
-**Opa, me chamo Expresso e esse é o meu GitHub! Sou um desenvolvedor / design e como meu primeiro projeto estou criando um bot utilizando a lib [Discord.js](https://discord.js.org/)!**
+**Opa, me chamo Expresso e esse é o meu GitHub! Sou um jovem desenvolvedor / design e como meu primeiro projeto estou criando um bot utilizando a lib [Discord.js](https://discord.js.org/)!**
+
+### 👤 | console.log("Mais Sobre Mim")
+- **let Meu-Nome = Erick Gabriel**;
+- **let Linguagem-Favorita = JavaScript**
 
 ### 💻 | console.log("Projeto(s)")
 - **Em Breve!**
