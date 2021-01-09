@@ -7,7 +7,7 @@
 - **Em Breve!**
 
 ### Linguagens Que Estou Estudando e Ferramentas Que Utilizo 🔧
-- `Linguagens:` **[JavaScript](https://www.javascript.com/) | [Python](https://www.python.org/)**
+- `Linguagens:` **[JavaScript](https://www.javascript.com/) | <img height="19px" src="https://cdn.svgporn.com/logos/html-5.svg"> [Python](https://www.python.org/)**
 - `Ferramentas:` **[Visual Studio Code ](https://visualstudio.microsoft.com/pt-br/) | [Node.js](https://nodejs.org/)**
 
 ![Github Status](https://github-readme-stats.vercel.app/api/?username=ExpressDeveloper&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
