@@ -5,3 +5,11 @@
 
 ### Projeto(s) 💻
 > - **Em Breve!**
+
+### Linguagens Que Estou Estudando 🔧
+
+<code> <img width = "10%" src = "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> </code>
+<code> <img width = "10%" src = "https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"> </code>
+
+// https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png
+// https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png
