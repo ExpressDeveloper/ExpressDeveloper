@@ -7,9 +7,7 @@
 > - **Em Breve!**
 
 ### Linguagens Que Estou Estudando 🔧
+<img width = "50%" align = "right" src = "https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
 <code> <img width = "10%" src = "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> </code>
-<code> <img width = "10%" src = "https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"> </code>
-
-// https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png
-// https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png
+<code> <img width = "10%" src = "https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"> </code> 
