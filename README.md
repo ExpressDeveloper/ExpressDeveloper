@@ -6,8 +6,27 @@
 ### Projeto(s) 💻
 > - **Em Breve!**
 
-### Linguagens Que Estou Estudando 🔧
-<img width = "50%" align = "right" src = "https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+### Linguagens Que Estou Estudando e Ferramentas Que Utilizo 🔧
 
-<code> <img width = "10%" src = "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> </code>
-<code> <img width = "10%" src = "https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"> </code> 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+	      <span><strong>JavaScript</strong></span><br><br><br>
+        <img height="100px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+	      <span><strong>Python</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Visual Studio Code</strong></span><br><br><br>
+        <img height="100px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Node.js</strong></span><br><br><br>
+        <img height="64px" src="https://www.pikpng.com/pngl/m/430-4309640_js-logo-nodejs-logo-clipart.png">
+      </td>
+     </tr>
+      </tbody>
+</table>
