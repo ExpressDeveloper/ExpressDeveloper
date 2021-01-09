@@ -4,8 +4,9 @@
 **Opa, me chamo Expresso e esse é o meu GitHub! Sou um jovem desenvolvedor / design e como meu primeiro projeto estou criando um bot utilizando a lib [Discord.js](https://discord.js.org/)!**
 
 ### 👤 | console.log("Mais Sobre Mim")
-- **let Meu-Nome = Erick Gabriel;**
-- **let Linguagem-Favorita = JavaScript**
+- **let Meu-Nome = "Erick Gabriel";**
+- **let Minha-Idade = "13 anos";**
+- **let Linguagem-Favorita = "JavaScript"**
 
 ### 💻 | console.log("Projeto(s)")
 - **Em Breve!**
