@@ -16,5 +16,5 @@
 - `Ferramentas:` **[Visual Studio Code ](https://visualstudio.microsoft.com/pt-br/) | [Node.js](https://nodejs.org/)**
 
 ### 📃 | console.log("Status")
-![Github Status](https://github-readme-stats.vercel.app/api/?username=ExpressDeveloper&show_icons=true&title_color=fff&icon_color=FF0000&text_color=9f9f9f&bg_color=151515)
+![Github Status](https://github-readme-stats.vercel.app/api/?username=ExpressDeveloper&show_icons=true&title_color=fff&icon_color=FF0000&text_color=fffFFF&bg_color=151515)
 <br>
