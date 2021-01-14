@@ -9,7 +9,7 @@
 - **let Linguagem-Favorita = "JavaScript"**
 
 ### 💻 | console.log("Projeto(s)")
-- **Em Breve!**
+`1.` **[Hancock](https://github.com/ExpressDeveloper/Hancock) - Discord Bot**
 
 ### 🔧 | console.log("Linguagens Que Estou Estudando e Ferramentas Que Utilizo")
 - `Linguagens:` **[JavaScript](https://www.javascript.com/) | [Python](https://www.python.org/)**
